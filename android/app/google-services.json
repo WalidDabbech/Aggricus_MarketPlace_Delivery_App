@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "877483904264",
+    "project_id": "flutter-aggricus-app",
+    "storage_bucket": "flutter-aggricus-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877483904264:android:0d38e590a1928fc76830bd",
+        "android_client_info": {
+          "package_name": "com.example.aggricus_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877483904264-7jufer2lqi08qm25m5bmk37cnkb19e03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYce4zN7pgiguoBEWHB_tzdvcEMOvpEAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877483904264-7jufer2lqi08qm25m5bmk37cnkb19e03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877483904264:android:088b21ae1edc3f9a6830bd",
+        "android_client_info": {
+          "package_name": "com.example.aggricus_vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877483904264-7jufer2lqi08qm25m5bmk37cnkb19e03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYce4zN7pgiguoBEWHB_tzdvcEMOvpEAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877483904264-7jufer2lqi08qm25m5bmk37cnkb19e03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877483904264:android:6360e90fa499a6306830bd",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877483904264-impjluomaj6pslq02u2fopdb4s36118b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "60fbbd737011731162f206cced76b510cb4f6dc4"
+          }
+        },
+        {
+          "client_id": "877483904264-7jufer2lqi08qm25m5bmk37cnkb19e03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYce4zN7pgiguoBEWHB_tzdvcEMOvpEAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877483904264-7jufer2lqi08qm25m5bmk37cnkb19e03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
